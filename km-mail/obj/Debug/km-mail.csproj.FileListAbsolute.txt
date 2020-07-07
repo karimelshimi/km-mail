@@ -1,0 +1,22 @@
+c:\users\dragon_2\documents\visual studio 2012\Projects\km-mail\km-mail\bin\Debug\km-mail.exe.config
+c:\users\dragon_2\documents\visual studio 2012\Projects\km-mail\km-mail\bin\Debug\km-mail.exe
+c:\users\dragon_2\documents\visual studio 2012\Projects\km-mail\km-mail\bin\Debug\km-mail.pdb
+c:\users\dragon_2\documents\visual studio 2012\Projects\km-mail\km-mail\obj\Debug\km-mail.csprojResolveAssemblyReference.cache
+c:\users\dragon_2\documents\visual studio 2012\Projects\km-mail\km-mail\obj\Debug\km_mail.Form1.resources
+c:\users\dragon_2\documents\visual studio 2012\Projects\km-mail\km-mail\obj\Debug\km_mail.Properties.Resources.resources
+c:\users\dragon_2\documents\visual studio 2012\Projects\km-mail\km-mail\obj\Debug\km-mail.csproj.GenerateResource.Cache
+c:\users\dragon_2\documents\visual studio 2012\Projects\km-mail\km-mail\obj\Debug\km-mail.exe
+c:\users\dragon_2\documents\visual studio 2012\Projects\km-mail\km-mail\obj\Debug\km-mail.pdb
+I:\visual studio\projects\km-mail\km-mail\bin\Debug\km-mail.exe.config
+I:\visual studio\projects\km-mail\km-mail\obj\Debug\km-mail.exe
+I:\visual studio\projects\km-mail\km-mail\obj\Debug\km-mail.pdb
+E:\Others\Recovered data 03-15 01_12_09\Recovered data 03-15 01_19_28\1  (D) NTFS\Karim\Programming\visual studio\projects\km-mail\km-mail\bin\Debug\km-mail.exe.config
+E:\Others\Recovered data 03-15 01_12_09\Recovered data 03-15 01_19_28\1  (D) NTFS\Karim\Programming\visual studio\projects\km-mail\km-mail\bin\Debug\km-mail.exe
+E:\Others\Recovered data 03-15 01_12_09\Recovered data 03-15 01_19_28\1  (D) NTFS\Karim\Programming\visual studio\projects\km-mail\km-mail\bin\Debug\km-mail.pdb
+E:\Others\Recovered data 03-15 01_12_09\Recovered data 03-15 01_19_28\1  (D) NTFS\Karim\Programming\visual studio\projects\km-mail\km-mail\obj\Debug\km-mail.csprojAssemblyReference.cache
+E:\Others\Recovered data 03-15 01_12_09\Recovered data 03-15 01_19_28\1  (D) NTFS\Karim\Programming\visual studio\projects\km-mail\km-mail\obj\Debug\km_mail.Form1.resources
+E:\Others\Recovered data 03-15 01_12_09\Recovered data 03-15 01_19_28\1  (D) NTFS\Karim\Programming\visual studio\projects\km-mail\km-mail\obj\Debug\km_mail.Properties.Resources.resources
+E:\Others\Recovered data 03-15 01_12_09\Recovered data 03-15 01_19_28\1  (D) NTFS\Karim\Programming\visual studio\projects\km-mail\km-mail\obj\Debug\km-mail.csproj.GenerateResource.cache
+E:\Others\Recovered data 03-15 01_12_09\Recovered data 03-15 01_19_28\1  (D) NTFS\Karim\Programming\visual studio\projects\km-mail\km-mail\obj\Debug\km-mail.csproj.CoreCompileInputs.cache
+E:\Others\Recovered data 03-15 01_12_09\Recovered data 03-15 01_19_28\1  (D) NTFS\Karim\Programming\visual studio\projects\km-mail\km-mail\obj\Debug\km-mail.exe
+E:\Others\Recovered data 03-15 01_12_09\Recovered data 03-15 01_19_28\1  (D) NTFS\Karim\Programming\visual studio\projects\km-mail\km-mail\obj\Debug\km-mail.pdb
